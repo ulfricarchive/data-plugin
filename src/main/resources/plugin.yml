@@ -1,0 +1,6 @@
+name: Data
+main: com.ulfric.plugin.data.DataPlugin
+version: 1.0.0
+author: Ulfric LLC
+load: STARTUP
+depends: [Platform]
