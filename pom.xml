@@ -17,6 +17,13 @@
 	<dependencies>
 		<dependency>
 			<groupId>com.ulfric.dragoon</groupId>
+			<artifactId>gson-dragoon</artifactId>
+			<version>1.0.0</version>
+			<scope>compile</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>com.ulfric.dragoon</groupId>
 			<artifactId>conf4j-dragoon</artifactId>
 			<version>1.0.0</version>
 			<scope>compile</scope>
